@@ -230,7 +230,5 @@ analytics solution**, covering:
 * Executive BI dashboards
 
 
-# Watch Video
-![alt text](image-4.png)(https://youtu.be/JfOyOsM-ACg)
 
 
